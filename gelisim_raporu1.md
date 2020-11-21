@@ -27,19 +27,7 @@ Kütüphaneler;
 
 **İŞ BÖLÜMÜ PLANLAMA**:
 
-1. Proje analizi: 22.11.2020 - 01.12.2020
-2. Veritabanı diyagramını oluşturma: 25.11.2020 - 02.12.2020
-3. Classların tasarlanması: 02.12.2020 - 09.12.2020
-4. Arayüzlerin tasarımı: 09.12.2020 - 16.12.2020
-5. Kullanıcı yönetimi Modulünün hazırlanması: 16.12.2020 - 28.12.2020
-6. Sınıfların oluşturulması: 30.12.2020 - 30.01.2021
-7. Veritabanı oluşturma: 31.01.2021 - 10.02.2021
-8. Kaydetme işlemleri: 11.02.2021 - 19.02.2021
-9. Güvenlik işlemleri: 20.02.2021 - 02.03.2021
-10. Kalan kodların yazılması: 08.03.2021 - 08.04.2021
-11. Son düzenlemeler( Eksikliklerin tamamlanması): 09.04.2021 - 14.04.2021
-12. Projenin eksiksiz çalıştırılması, son kontroller: 15.04.2021 - 01.05.2021
-13. Projenin sunumu: 01.05.2021 - ...
+![projeİşPlanı](https://user-images.githubusercontent.com/74215861/99885151-f765b180-2c43-11eb-844c-9c84a3d70234.PNG)
 
 
 **HEDEFLENEN ÇIKTILAR**:
