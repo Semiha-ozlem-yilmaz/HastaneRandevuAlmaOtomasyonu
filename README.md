@@ -1,0 +1,2 @@
+# HastaneRandevuAlmaOtomasyonu
+Bitirme Projesi
