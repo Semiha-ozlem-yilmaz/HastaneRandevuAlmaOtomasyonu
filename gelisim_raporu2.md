@@ -15,7 +15,9 @@ Proje dağılımı Nisan'a kadar uzatıldı, bazı görevler iki defa yazıldı�
 
       [http://kod5.org/android-spinner-kullanimi/]
 
+**ZORLUKLAR**
 
+FireBase'yi projeye eklerken bir sorun oluştu ve eklenilen proje FireBase'te eklenmiş olarak gözükmüyor, ve hala çözümlenmedi.
 
 
 
