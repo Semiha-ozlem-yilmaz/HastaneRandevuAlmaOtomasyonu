@@ -31,13 +31,14 @@ Yukarıda ki kodda spinner ve adapteri tanımlaması yapıldı.
 
 Bu kodda ise yukarıda tanımlanan spinner ve adapterin androidde ataması gerçekleştirildi.
 
+![an3](https://user-images.githubusercontent.com/74215861/103468446-12aafd00-4d6a-11eb-92b5-9faf8666782b.PNG)
 
+Yukarıda ki işlemde polikinlik spinner'ine tıklama işlemi yapıldığında ilk önce tıklama yapılan indekse bakılır, daha sonra indekse göre 0. indekste ilk if koşuluna girip dahiliye polikinliğine ait doktorlar karşımıza çıkacaktır. 1.indekste ise else if koşuluna girip ağız ve diş sağlığı polikinliğine ait doktorları verecek, 2.indekste ise diğer else if koşuluna girip noroloji polikinliğine ait doktorlar karşımıza çıkar, 3.indekste ise en son else if koşuluna girip kardiyoloji polikinliğine ait doktorları verir. En sonda ise doktora ait spinner çağırılır.
 
 
 # Çözümlenemeyen Zorluklar
 
-FireBase'yi projeye eklerken bir sorun oluştu ve eklenilen proje FireBase'te eklenmiş olarak gözükmüyor ama Android Studio' da eklenmiş olarak gözüküyor
-, ve hala çözümlenmedi.
+FireBase'yi projeye eklerken bir sorun oluştu ve eklenilen proje FireBase'te eklenmiş olarak gözükmüyor ama Android Studio' da eklenmiş olarak gözüküyor, ve hala çözümlenmedi.
 
 # ARAÇLAR
 
