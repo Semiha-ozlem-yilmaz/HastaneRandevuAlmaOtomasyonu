@@ -8,6 +8,7 @@ Proje dağılımı Nisan'a kadar uzatıldı, bazı görevler iki defa yazıldı�
 **KAYNAKLAR**
 
 FireBase'i android Studio'ya ekleme:
+
 [https://firebase.google.com/docs/android/setup]
 
 
