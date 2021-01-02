@@ -7,11 +7,13 @@ Proje dağılımı Nisan'a kadar uzatıldı, bazı görevler iki defa yazıldı�
 
 **KAYNAKLAR**
 
-FireBase'i android Studio'ya ekleme:
+1. FireBase'i android Studio'ya ekleme:
 
 [https://firebase.google.com/docs/android/setup]
 
+2. Spinner kullanımı hakkında bilgi alınmıştır:
 
+[http://kod5.org/android-spinner-kullanimi/]
 
 
 
