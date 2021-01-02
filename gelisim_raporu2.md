@@ -9,11 +9,11 @@ Proje dağılımı Nisan'a kadar uzatıldı, bazı görevler iki defa yazıldı�
 
 1. FireBase'i android Studio'ya ekleme:
 
-[https://firebase.google.com/docs/android/setup]
+      [https://firebase.google.com/docs/android/setup]
 
 2. Spinner kullanımı hakkında bilgi alınmıştır:
 
-[http://kod5.org/android-spinner-kullanimi/]
+      [http://kod5.org/android-spinner-kullanimi/]
 
 
 
