@@ -29,7 +29,8 @@ Bu kodda ise yukarıda tanımlanan spinner ve adapterin androidde ataması gerç
 
 
 
-**Çözümlenemeyen Zorluklar**
+
+# Çözümlenemeyen Zorluklar
 
 FireBase'yi projeye eklerken bir sorun oluştu ve eklenilen proje FireBase'te eklenmiş olarak gözükmüyor ama Android Studio' da eklenmiş olarak gözüküyor
 , ve hala çözümlenmedi.
