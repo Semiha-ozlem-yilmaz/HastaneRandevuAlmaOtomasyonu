@@ -23,6 +23,10 @@ Spinner kullanımında iki spinnerda ki verilerin bileşenlerini yerleştirme ko
 
 Yukarıda ki kodda spinner ve adapteri tanımlaması yapıldı.
 
+![an1](https://user-images.githubusercontent.com/74215861/103467892-aaa5e800-4d64-11eb-92b4-03ae0d5f6330.PNG)
+
+Bu kodda ise yukarıda tanımlanan spinner ve adapterin androidde ataması gerçekleştirildi.
+
 
 
 *Çözümlenemeyen Zorluklar*
