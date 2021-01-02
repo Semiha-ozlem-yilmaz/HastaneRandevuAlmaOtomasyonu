@@ -24,20 +24,11 @@ Spinner kullanımında iki spinnerda ki verilerin bileşenlerini yerleştirme ko
 FireBase'yi projeye eklerken bir sorun oluştu ve eklenilen proje FireBase'te eklenmiş olarak gözükmüyor ama Android Studio' da eklenmiş olarak gözüküyor
 , ve hala çözümlenmedi.
 
+**ARAÇLAR**
 
+Kullanılan program Android Studio ve kullanılan programlama dili javadır.
 
-
-
-
-
-
-
-
-
-
-
-
-
+**İŞ DAĞILIMI**
 
 |      | Classların Oluşturulması | Arayüz Tasarımı  | Toplam  |
 |------|--------------------------|------------------|---------|
