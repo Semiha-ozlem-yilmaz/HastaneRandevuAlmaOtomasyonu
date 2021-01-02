@@ -17,7 +17,12 @@ Proje dağılımı Nisan'a kadar uzatıldı, bazı görevler iki defa yazıldı�
 
 **ZORLUKLAR**
 
-FireBase'yi projeye eklerken bir sorun oluştu ve eklenilen proje FireBase'te eklenmiş olarak gözükmüyor, ve hala çözümlenmedi.
+Spinner kullanımında iki spinnerda ki verilerin bileşenlerini yerleştirme konusunda zorluk çekildi ve Adapter kullanımı öğrenildi.
+
+*Çözümlenemeyen Zorluklar*
+
+FireBase'yi projeye eklerken bir sorun oluştu ve eklenilen proje FireBase'te eklenmiş olarak gözükmüyor ama Android Studio' da eklenmiş olarak gözüküyor
+, ve hala çözümlenmedi.
 
 
 
