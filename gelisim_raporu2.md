@@ -19,6 +19,10 @@ Proje dağılımı Nisan'a kadar uzatıldı, bazı görevler iki defa yazıldı�
 
 Spinner kullanımında iki spinnerda ki verilerin bileşenlerini yerleştirme konusunda zorluk çekildi ve Adapter kullanımı öğrenildi.
 
+![an0](https://user-images.githubusercontent.com/74215861/103468389-a203e080-4d69-11eb-8af0-f5666e1b0d32.PNG)
+
+Polikinlikler doktorlar ve saatlere ait arraylar tanımlanmıştır.
+
 ![an](https://user-images.githubusercontent.com/74215861/103467839-3ec37f80-4d64-11eb-9f78-613816711c81.PNG)
 
 Yukarıda ki kodda spinner ve adapteri tanımlaması yapıldı.
