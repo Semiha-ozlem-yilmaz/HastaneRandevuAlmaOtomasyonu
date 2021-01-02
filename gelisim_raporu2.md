@@ -1,11 +1,11 @@
 # Gelişim Raporu 2
-**DÜZELTMELER**
+# DÜZELTMELER
 
 Proje dağılımı Nisan'a kadar uzatıldı, bazı görevler iki defa yazıldığı için düzeltildi.
 
 ![iş bölümü-1](https://user-images.githubusercontent.com/74215861/103462393-f4c3a500-4d35-11eb-8f51-2cd8243e2c1e.jpg)
 
-**KAYNAKLAR**
+# KAYNAKLAR
 
 1. FireBase'i android Studio'ya ekleme:
 
@@ -15,7 +15,7 @@ Proje dağılımı Nisan'a kadar uzatıldı, bazı görevler iki defa yazıldı�
 
       [http://kod5.org/android-spinner-kullanimi/]
 
-**ZORLUKLAR**
+# ZORLUKLAR
 
 Spinner kullanımında iki spinnerda ki verilerin bileşenlerini yerleştirme konusunda zorluk çekildi ve Adapter kullanımı öğrenildi.
 
@@ -29,16 +29,16 @@ Bu kodda ise yukarıda tanımlanan spinner ve adapterin androidde ataması gerç
 
 
 
-*Çözümlenemeyen Zorluklar*
+**Çözümlenemeyen Zorluklar**
 
 FireBase'yi projeye eklerken bir sorun oluştu ve eklenilen proje FireBase'te eklenmiş olarak gözükmüyor ama Android Studio' da eklenmiş olarak gözüküyor
 , ve hala çözümlenmedi.
 
-**ARAÇLAR**
+# ARAÇLAR
 
 Kullanılan program Android Studio ve kullanılan programlama dili javadır.
 
-**İŞ DAĞILIMI**
+# İŞ DAĞILIMI
 
 |      | Classların Oluşturulması | Arayüz Tasarımı  | Toplam  |
 |------|--------------------------|------------------|---------|
