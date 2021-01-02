@@ -19,6 +19,12 @@ Proje dağılımı Nisan'a kadar uzatıldı, bazı görevler iki defa yazıldı�
 
 Spinner kullanımında iki spinnerda ki verilerin bileşenlerini yerleştirme konusunda zorluk çekildi ve Adapter kullanımı öğrenildi.
 
+![an](https://user-images.githubusercontent.com/74215861/103467839-3ec37f80-4d64-11eb-9f78-613816711c81.PNG)
+
+Yukarıda ki kodda spinner ve adapteri tanımlaması yapıldı.
+
+
+
 *Çözümlenemeyen Zorluklar*
 
 FireBase'yi projeye eklerken bir sorun oluştu ve eklenilen proje FireBase'te eklenmiş olarak gözükmüyor ama Android Studio' da eklenmiş olarak gözüküyor
